@@ -101,6 +101,26 @@ Random Forest achieved the strongest overall balance of metrics.
 
 ---
 
+## Figures
+
+### Model Performance Comparison
+
+![Model Performance Comparison](figures/model performance(1).png)
+
+### Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](figures/Random forest confusion(1).png)
+
+### Random Forest ROC Curve
+
+![Random Forest ROC Curve](figures/Random Forest ROC(1).png)
+
+### Top Connectivity Features
+
+![Top Connectivity Features](figures/Top connectivity features(1).png)
+
+---
+
 ## Interpretation
 
 Performance remained modest, but the project successfully improved upon the baseline pipeline and demonstrates that methodological choices materially influence outcomes in clinical neuroimaging machine learning.
