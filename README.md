@@ -104,21 +104,10 @@ Random Forest achieved the strongest overall balance of metrics.
 
 ## Figures
 
-### Model Performance Comparison
-
-![Model Performance Comparison](./figures/model performance.png)
-
-### Random Forest Confusion Matrix
-
-![Random Forest Confusion Matrix](./figures/Random forest confusion.png)
-
-### Random Forest ROC Curve
-
-![Random Forest ROC Curve](./figures/Random Forest ROC.png)
-
-### Top Connectivity Features
-
-![Top Connectivity Features](./figures/Top connectivity features.png)
+Model Performance Comparison
+Random Forest Confusion Matrix
+Random Forest ROC Curve
+Top Connectivity Features
 
 ---
 
@@ -168,7 +157,14 @@ repo4-advanced-adhd-classification/
   * 03_model_comparison.ipynb
   * 04_results_and_interpretation.ipynb
 * figures/
+
+  * model performance.png
+  * Random forest confusion.png
+  * Random Forest ROC.png
+  * Top connectivity features.png
 * README.md
+* LICENSE
+* .gitignore
 
 ---
 
