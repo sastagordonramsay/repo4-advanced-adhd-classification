@@ -105,19 +105,19 @@ Random Forest achieved the strongest overall balance of metrics.
 
 ### Model Performance Comparison
 
-![Model Performance Comparison](figures/model performance(1).png)
+![Model Performance Comparison](figures/model performance.png)
 
 ### Random Forest Confusion Matrix
 
-![Random Forest Confusion Matrix](figures/Random forest confusion(1).png)
+![Random Forest Confusion Matrix](figures/Random forest confusion.png)
 
 ### Random Forest ROC Curve
 
-![Random Forest ROC Curve](figures/Random Forest ROC(1).png)
+![Random Forest ROC Curve](figures/Random Forest ROC.png)
 
 ### Top Connectivity Features
 
-![Top Connectivity Features](figures/Top connectivity features(1).png)
+![Top Connectivity Features](figures/Top connectivity features.png)
 
 ---
 
